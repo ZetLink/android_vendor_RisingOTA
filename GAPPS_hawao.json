@@ -1,0 +1,28 @@
+{
+    "response": [
+            {
+                    "maintainer": "ZetLink",
+                    "oem": "Motorola",
+                    "device": "Moto G42",
+                    "filename": "RisingOS-6.2-STABLE-25011116-GAPPS-COMMUNITY-hawao-ota.zip",
+                    "download": "https://sourceforge.net/projects/zetlink-files/files/RisingOS/6.2/RisingOS-6.2-STABLE-25011116-GAPPS-COMMUNITY-hawao-ota.zip/download",
+                    "timestamp": 1736613829,
+                    "md5": "b2ce95c990dd395ce11156c7a2ba5fe9",
+                    "sha256": "3f7befdcf500c384406b4f8ff608001256fc7d8d7c655f821775e396a7984d36",
+                    "size": 1975768651,
+                    "version": "6.2-Boundless",
+                    "buildtype": "STABLE",
+                    "forum": "",
+                    "gapps": "",
+                    "firmware": "",
+                    "modem": "",
+                    "bootloader": "",
+                    "recovery": "",
+                    "paypal": "",
+                    "telegram": "",
+                    "dt": "",
+                    "common-dt": "",
+                    "kernel": ""
+            }
+    ]
+}
