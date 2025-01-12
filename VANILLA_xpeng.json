@@ -1,0 +1,28 @@
+{
+    "response": [
+            {                                                                                                
+                    "maintainer": "ZetLink",
+                    "oem": "Motorola",
+                    "device": "Moto G200 5G",
+                    "filename": "RisingOS-6.2-STABLE-25011202-VANILLA-COMMUNITY-xpeng-ota.zip",
+                    "download": "https://sourceforge.net/projects/zetlink-files/files/RisingOS/6.2/RisingOS-6.2-STABLE-25011202-VANILLA-COMMUNITY-xpeng-ota.zip/download",
+                    "timestamp": 1736649516,
+                    "md5": "8f2c30ca9ae0accc52f4bad3386f68f4",
+                    "sha256": "4f1c4aeb420143754c6e5a9574269c81db1992b10ed98a20faeabbf1d1a50403",
+                    "size": 1404535706,
+                    "version": "6.2-Boundless",
+                    "buildtype": "STABLE",
+                    "forum": "",
+                    "gapps": "",
+                    "firmware": "",
+                    "modem": "",
+                    "bootloader": "",
+                    "recovery": "",
+                    "paypal": "",
+                    "telegram": "",
+                    "dt": "",
+                    "common-dt": "",
+                    "kernel": ""
+            }                                                                               
+    ]
+}
