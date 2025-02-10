@@ -1,28 +1,21 @@
 {
-    "response": [
-            {
-                    "maintainer": "ZetLink",
-                    "oem": "Motorola",
-                    "device": "Moto G42",
-                    "filename": "RisingOS-6.2-STABLE-25011121-VANILLA-COMMUNITY-hawao-ota.zip",
-                    "download": "https://sourceforge.net/projects/zetlink-files/files/RisingOS/6.2/RisingOS-6.2-STABLE-25011121-VANILLA-COMMUNITY-hawao-ota.zip/download",
-                    "timestamp": 1736631211,
-                    "md5": "3f84dabe9c0cd003e048f38d08e617a8",
-                    "sha256": "ea1494a99a76b65e4b12a327da0fd17d7e98480b5dbdd67d920142a55b130bee",
-                    "size": 1227201080,
-                    "version": "6.2-Boundless",
-                    "buildtype": "STABLE",
-                    "forum": "",
-                    "gapps": "",
-                    "firmware": "",
-                    "modem": "",
-                    "bootloader": "",
-                    "recovery": "",
-                    "paypal": "",
-                    "telegram": "",
-                    "dt": "",
-                    "common-dt": "",
-                    "kernel": ""
-            }
-    ]
+        "response": [
+                {
+                        "maintainer": "ZetLink",
+                        "oem": "Motorola",
+                        "device": "Moto G42",
+                        "filename": "RisingOS_Revived-6.2.1-STABLE-25021004-VANILLA-COMMUNITY-hawao-ota.zip",
+                        "download": "https://sourceforge.net/projects/zetlink-files/files/RisingOS/6.2.1/RisingOS_Revived-6.2.1-STABLE-25021004-VANILLA-COMMUNITY-hawao-ota.zip/download",
+                        "timestamp": 1739160547,
+                        "md5": "65d9b1305258ac6130d685b69d4c9430",
+                        "sha256": "c13799cc6c7cac469c165df718f1d38968b7b21e96bf566fda9f4947e4a829cf",
+                        "size": 1234752617,
+                        "version": "6.2.1-Boundless",
+                        "buildtype": "STABLE",
+                        "forum": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": ""
+                }
+        ]
 }
